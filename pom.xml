@@ -7,7 +7,7 @@
   <packaging>pom</packaging>
   <name>chatjms</name>
     <modules>
-        <module>jboss6-chatjms-server</module>
+        <module>jboss6a-chatjms-server</module>
         <module>jboss-jmsclient</module>
     </modules>
 </project>
